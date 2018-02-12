@@ -14,7 +14,7 @@ nav ul {
     margin: 0;
     padding: 15px;
     overflow: hidden;
-    background-color: #10557c;
+    background-color: #0885a3;
     text-align: center;
 }
 
@@ -58,7 +58,7 @@ h1, h3 {
 
 h2 {
     text-align: center;
-    color: #10557c
+    color: #0885a3
 }
 
 
@@ -92,7 +92,7 @@ img.portfolio {
 p {
   border-style: solid;
   border-width: 5px;
-  border-color: #10557c;
+  border-color: #0885a3;
   margin: 20px;
   padding: 10px;
 }
@@ -112,6 +112,6 @@ img.contactme {
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #10557c;
+  background-color: #0885a3;
   color: #ffffff;
 }
